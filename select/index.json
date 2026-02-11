@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "CapSule",
+  "base_artist": "Mori Calliope",
+  "createdAt": "2026-02-11T09:08:09.033422Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "In the Space Capsule (The Love Theme)",
+      "artist": "Queen",
+      "has_synced": true,
+      "path": "select/01_In_the_Space_Capsule_(The_Love_Theme)_Queen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "In Memory Capsule",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/02_In_Memory_Capsule_Cut_Copy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Capsule Losing Contact",
+      "artist": "Duster",
+      "has_synced": true,
+      "path": "select/03_Capsule_Losing_Contact_Duster.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wrong Time Capsule",
+      "artist": "Deerhoof",
+      "has_synced": false,
+      "path": "select/04_Wrong_Time_Capsule_Deerhoof.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Reeling (Yasutaka Nakata [capsule] Remix)",
+      "artist": "Passion Pit",
+      "has_synced": false,
+      "path": "select/05_The_Reeling_(Yasutaka_Nakata_[capsule]_Remix)_Passion_Pit.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "capsule-03",
+      "artist": "lost spaces",
+      "has_synced": false,
+      "path": "select/06_capsule-03_lost_spaces.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Time Capsule",
+      "artist": "Matthew Sweet",
+      "has_synced": false,
+      "path": "select/07_Time_Capsule_Matthew_Sweet.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Y2K Time Capsule - Interlude",
+      "artist": "X Ambassadors",
+      "has_synced": true,
+      "path": "select/08_Y2K_Time_Capsule_-_Interlude_X_Ambassadors.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pay No Mind (Yasutaka Nakata \"CAPSULE\" Remix)",
+      "artist": "Madeon feat. Passion Pit",
+      "has_synced": true,
+      "path": "select/09_Pay_No_Mind_(Yasutaka_Nakata__CAPSULE__Remix)_Madeon_feat._Passion_Pit.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pay No Mind (Yasutaka Nakata ‘Capsule’ remix)",
+      "artist": "Madeon feat. Passion Pit",
+      "has_synced": true,
+      "path": "select/10_Pay_No_Mind_(Yasutaka_Nakata_‘Capsule’_remix)_Madeon_feat._Passion_Pit.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "CapSule",
+      "artist": "Mori Calliope×星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_CapSule_Mori_Calliope×星街すいせい.txt"
+    }
+  ]
+}
