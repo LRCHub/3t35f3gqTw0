@@ -1,0 +1,136 @@
+# Mori Calliope – CapSule
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Da-la-da wo-foo
+Da-la-da wo-foo
+冗談めいちゃって あはは
+口論またやっちゃった
+酸いも甘いも苦いのでも
+飲み干せばAlright
+Stand tough
+Not saints, nor sinners
+Man up
+The say the winner takes all
+Ain't even sweatin'
+when the goin' gets rough,
+And not leavin' til'
+that last light
+間違いさが嫉妬 仕方ないなきっと
+ココロ七変化なんて
+本物のおんぼろだ
+好き手前の名前=エンタメ、だめ?
+笑っちゃう でも溢れ出すのエモ
+Emotional wreck
+But still I'm rockin' high spec
+With every live
+it marks survival,
+where the mic check?
+We boast an out-of-this-WORLD
+devotion, stay neck-and-neck
+Cuz when ya chips are down,
+ya cards are out,
+the Queens own this deck, haha
+Rhyme on my vibe
+終わりはどうでもいいから
+期待させて
+Take you higher
+聴かせてよ
+We start fires
+火照るほど
+We're live wires
+たまんないBeat
+Underrated, honest
+Encapsulate, astonish ya
+Read my lips
+気付いてよ
+Need a tip?
+わかるでしょ
+Cuz we want it
+解いてほしいの
+Unfasten us and fascinate us
+We can't wait faster, cuz
+したい (Da la da, wo foo)
+(Da la da, wo foo)
+We want it all,
+and when I fall stay proud
+"Without any stall,
+my engine can't get louder"
+したい (Da la da, wo foo)
+(Da la da, wo foo)
+"We want it all,
+and when I fallI'm gon' rise"
+"I won't be your doll,
+but still I'm owning those eyes"
+ねえめんどくさいとか言ったら
+それは所謂終わりじゃん
+"Why should I be tryin'
+for a dream that's a pain?"
+Cuz Death is dying every day
+designing rhymes for our gain,
+ya know?
+ZeroからEgoまでCount up
+仕上がってどうぞ あたしの子守唄
+""Mellow"
+doesn't suit our vibe,
+steady flowin' stellar,"
+"Still, still it's a thriller,
+keep ya eyes
+on Your Mori, fellas"
+なんちゃって
+反省してるなんて嘘で
+引いて 同情 Gotcha
+回してみて機嫌ガチャ
+当たるまで後悔
+What's that?
+Stop feeling sorry.
+Just an act.
+I still don't care!
+…Could maybe lay
+it down a million times,
+I'll get "fine"
+when I can get my share.
+Save it for the night
+足りない同士で
+「どうして」を灰にして
+(Let’s go)
+Death Star shoot across the sky
+We the bad guys haha
+お待たせしましたShooting star
+あたしCutie star
+"カワイイ"もっとちょうだい
+Tarinai, tarinai, ain't enough
+It's alright,
+we still got a couple fights
+in us
+(You know?)
+Take you higher
+聴かせるわ
+We start fires
+火照るまで
+We're live wires
+キマっちゃうBeat
+Underrated, honest
+Encapsulate, astonish ya
+Read my lips
+気付いても
+Need a tip?
+おそいのよ
+Cuz we want it
+期待の向こうへ
+Unfasten us and fascinate us
+We can't wait faster, cuz
+したい (Da la da, wo foo)
+(Da la da, wo foo)
+We want it all,
+and when I fall stay proud
+Without any stall,
+my engine can't get louder
+したい (Da la da, wo foo)
+(Da la da, wo foo)
+We want it all,
+and when I fall I'm gon' rise
+I won't be your doll,
+but still I'm owning those eyes
+```
